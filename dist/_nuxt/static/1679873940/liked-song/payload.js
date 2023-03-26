@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/liked-song", {data:[],fetch:[],mutations:void 0});
